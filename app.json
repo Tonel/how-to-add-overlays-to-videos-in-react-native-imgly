@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "how-to-add-overlays-to-videos-in-react-native-imgly",
+    "slug": "how-to-add-overlays-to-videos-in-react-native-imgly",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "how-to-add-overlays-to-videos-in-react-native-imgly"
+}
